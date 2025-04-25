@@ -1,6 +1,6 @@
 # 👋 Salut / Hello, je suis / I'm **Sofiane Chehboune**
 **🇫🇷 Data Analyst & Passionné de Machine Learning**  
-**🇬🇧 Data Analyst & Machine Learning Enthusiast**
+**EN Data Analyst & Machine Learning Enthusiast**
 
 🔍 **FR** : Spécialisé dans l’analyse de données, le machine learning avec Python et les applications Streamlit.  
 🚀 **EN** : Specializing in data analysis, machine learning with Python, and Streamlit apps.
