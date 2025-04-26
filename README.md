@@ -1,88 +1,98 @@
 # 👋 Salut / Hello, je suis / I'm **Sofiane Chehboune**
-**🇫🇷 Data Analyst & Passionné de Machine Learning**  
-**EN Data Analyst & Machine Learning Enthusiast**
 
-🔍 **FR** : Spécialisé dans l’analyse de données, le machine learning avec Python et les applications Streamlit.  
-🚀 **EN** : Specializing in data analysis, machine learning with Python, and Streamlit apps.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
 ## 💼 À propos de moi / About Me
 
-🇫🇷 Data Analyst avec 2 an d’expérience en Python, après 9 ans dans la gestion commerciale comme un responsable Adaministreation des ventes.  
-🇬🇧 Data Analyst with 2 years of experience in Python, after 9 years in sales administration Manager.  
+🇫🇷 Data Analyst avec 2 ans d’expérience en Python, après 9 ans dans la gestion commerciale (Responsable Administration des Ventes).  
+🇬🇧 Data Analyst with 2 years of Python experience, following 9 years in Sales Administration Management.
 
-🎯 Objectif / Goal : Contribuer à des projets innovants en Data Science et IA Générative.
+🎯 Objectif / Goal : Contribuer à des projets innovants en Data Science, Machine Learning, et IA Générative.
 
 ---
 
-## ⚙️ Tech Stack & Outils / Tools
+## ⚙️ Stack Technique / Tech Stack
 
-- Python (Pandas, NumPy, Scikit-learn, NLP, Matplotlib, Seaborn, Plotly)
-- Streamlit, PyGWalker, YData-Profiling
-- Git, VS Code, Google Colab, Jupyter
-- ETL pipelines & data cleaning
+- **Langages / Languages** : Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly)
+- **Applications Web / Web Apps** : Streamlit, PyGWalker
+- **Outils / Tools** : Git, GitHub, VS Code, Google Colab, Jupyter Notebook
+- **Compétences / Skills** : ETL Pipelines, Data Cleaning, Feature Engineering, Data Visualization
 
 ---
 
 ## 🚀 Projets / Projects
 
-### 📉 [Détection de Fraude / Fraud Detection](https://github.com/sofianec/credit-card-fraud-detection)
-- **FR** : Détection de fraudes bancaires avec un modèle ML déployé sur Streamlit.  
-- **EN** : Credit card fraud detection with a deployed ML model in Streamlit.
+### 📉 [Détection de Fraude Bancaire / Credit Card Fraud Detection](https://github.com/SofianeChehboune/credit-card-fraud-detection)
+- **FR** : Détection des fraudes sur cartes bancaires avec un modèle Machine Learning déployé avec Streamlit.  
+- **EN** : Credit card fraud detection using a Machine Learning model deployed with Streamlit.
 
 ---
 
-### 📊 [Dashboard Interactif avec PyGWalker](https://github.com/sofianec/pygwalker)
-- **FR** : Exploration visuelle des données sans code grâce à PyGWalker.  
-- **EN** : Visual data exploration without code using PyGWalker.
+### 📊 [Dashboard interactif avec PyGWalker & Streamlit](https://github.com/SofianeChehboune/pygwalker-streamlit-app)
+- **FR** : Création d'un tableau de bord interactif pour explorer les données sans coder avec PyGWalker et Streamlit.  
+- **EN** : Interactive dashboard for visual data exploration without coding using PyGWalker and Streamlit.
 
 ---
 
-### 🎮 [Prédiction de performance MCTS](https://github.com/sofianec/mcts-ml-game)
-- **FR** : Utilisation de ML pour comparer les variantes MCTS dans des jeux.  
-- **EN** : ML-based comparison of MCTS variants in gaming simulations.
+### 🎮 [Prédiction de performance - Variantes MCTS](https://github.com/SofianeChehboune/mcts-ml-game)
+- **FR** : Prédiction de la performance de variantes de MCTS dans des jeux via Machine Learning.  
+- **EN** : Predicting performance of MCTS variants in games using Machine Learning.
 
 ---
 
-### 🔍 [Analyse LinkedIn & Apollo](https://github.com/sofianec/linkedin-apollo-data-analysis)
-- **FR** : Analyse croisée des connexions LinkedIn et prospects Apollo.  
-- **EN** : Cross-analysis of LinkedIn connections and Apollo prospects.
+### 🔍 [Analyse croisée LinkedIn & Apollo](https://github.com/SofianeChehboune/linkedin-apollo-data-analysis)
+- **FR** : Analyse croisée des contacts LinkedIn et des prospects Apollo pour optimiser le réseautage.  
+- **EN** : Cross-analysis of LinkedIn contacts and Apollo prospects for networking optimization.
 
 ---
 
-### 📄 [Profilage automatique - Iris Dataset](https://github.com/sofianec/iris-dataset-profiling)
-- **FR** : Profilage de données avec YData-Profiling sur le dataset Iris.  
-- **EN** : Automated profiling of the Iris dataset with YData-Profiling.
+### 📄 [Profilage Automatique du Dataset Iris](https://github.com/SofianeChehboune/iris-dataset-profiling)
+- **FR** : Profilage automatique du célèbre dataset Iris à l'aide de YData-Profiling.  
+- **EN** : Automated profiling of the famous Iris dataset using YData-Profiling.
+
+---
+
+### 🏁 [Animation Bar Chart Race](https://github.com/SofianeChehboune/bar-chart-race)
+- **FR** : Création d'une animation dynamique de type "bar chart race" avec Python.  
+- **EN** : Creating dynamic bar chart race animations using Python.
+
+---
+
+### 🎬 [Génération Automatique de Reels TikTok](https://github.com/SofianeChehboune/tiktok-reel-generation)
+- **FR** : Génération automatique de vidéos Reels pour TikTok, combinant texte, audio et image.  
+- **EN** : Automatic generation of TikTok Reels videos combining text, audio, and images.
 
 ---
 
 ## 📊 Statistiques GitHub / GitHub Stats
 
-| Heure / Time       | Commits | Pourcentage / Percentage |
-|--------------------|---------|---------------------------|
-| 🌞 Matin / Morning  | 5000    | 12.5%                     |
-| 🌆 Journée / Daytime| 10000   | 25%                       |
-| 🌃 Soirée / Evening | 12000   | 30%                       |
-| 🌙 Nuit / Night     | 13000   | 32.5%                     |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SofianeChehboune&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-📈 **Graphique interactif** / **Interactive chart** (Pie Chart via Plotly) :  
-👉 [Voir le graphique / View the chart](https://github.com/ton-utilisateur/ton-repo/raw/main/commits_pie_chart.html)
-
-_Dernière mise à jour / Last updated: 18/04/2025_
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SofianeChehboune&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🌐 Connecte-toi avec moi / Connect with Me
 
-- [LinkedIn 🇫🇷](https://www.linkedin.com/in/sofiane-chehboune-5b243766/)
-- [Instagram 🇫🇷 @ML_DataAnalyst](https://www.instagram.com/ml_dataanalyst)
-- [TikTok 🇫🇷 @sofiane_data](https://www.tiktok.com/@sofiane_data)
-- [GitHub 🇫🇷](https://github.com/sofianec)
+- [LinkedIn](https://www.linkedin.com/in/sofiane-chehboune-5b243766/)  
+- [Instagram @ML_DataAnalyst](https://www.instagram.com/ml_dataanalyst)  
+- [TikTok @sofiane_data](https://www.tiktok.com/@sofiane_data)  
+- [GitHub](https://github.com/SofianeChehboune)
+
+📩 **FR** : Discutons ensemble de vos projets en Data Science !  
+📩 **EN** : Let's build something epic together in Data Science!
+
+👉 [Contactez-moi / Contact Me](https://www.linkedin.com/in/sofiane-chehboune-5b243766/)
 
 ---
 
-📩 **FR** : Discutons ensemble de vos projets en Data Science !  
-📩 **EN** : Let's build something epic together in data science!
-
-👉 [Contactez-moi / Contact Me](https://www.linkedin.com/in/sofiane-chehboune-5b243766/)
