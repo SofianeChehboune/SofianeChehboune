@@ -8,16 +8,16 @@
   <a href="https://www.linkedin.com/in/sofiane-chehboune-5b243766/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://twitter.com/">
+  <a href="https://x.com/sofianech16">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
   <a href="https://ko-fi.com/">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo" />
   </a>
-  <a href="https://www.youtube.com/">
+  <a href="https://www.youtube.com/@Data_Analyst_ML">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
-  <a href="https://www.facebook.com/">
+  <a href="https://web.facebook.com/profile.php?id=100083027688609">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
   </a>
   <a href="https://www.instagram.com/">
@@ -26,10 +26,10 @@
   <a href="https://discord.com/">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
-  <a href="https://wa.me/">
+  <a href="https://wa.me/+213561">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
   </a>
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:chehbounesofiane@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
@@ -82,9 +82,9 @@ I specialize in turning raw data 📊 into actionable insights and building smar
 <h3 align="left">🔥 My Stats :</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SofianeChehboune&show_icons=true&theme=radical" alt="GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SofianeChehboune&theme=radical" alt="GitHub streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofianeChehboune&layout=compact&theme=radical" alt="Top languages" />
 </p>
