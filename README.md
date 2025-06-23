@@ -1,7 +1,3 @@
-# Let's write the updated README.md content into a file
-from pathlib import Path
-
-readme_content = """
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
@@ -95,10 +91,3 @@ I specialize in turning raw data 📊 into actionable insights and building smar
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofianeChehboune&layout=compact&theme=radical" alt="Top languages" />
 </p>
-"""
-
-# Save to file
-readme_path = Path("/mnt/data/README.md")
-readme_path.write_text(readme_content.strip())
-
-readme_path.name
