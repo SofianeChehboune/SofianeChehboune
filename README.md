@@ -1,3 +1,7 @@
+# Let's write the updated README.md content into a file
+from pathlib import Path
+
+readme_content = """
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
@@ -75,6 +79,9 @@ I specialize in turning raw data 📊 into actionable insights and building smar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="scikit-learn logo" />
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="40" alt="streamlit logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg" height="40" alt="nlp/nltk logo" />
 </div>
 
 ###
@@ -88,3 +95,10 @@ I specialize in turning raw data 📊 into actionable insights and building smar
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofianeChehboune&layout=compact&theme=radical" alt="Top languages" />
 </p>
+"""
+
+# Save to file
+readme_path = Path("/mnt/data/README.md")
+readme_path.write_text(readme_content.strip())
+
+readme_path.name
