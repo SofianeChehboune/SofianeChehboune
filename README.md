@@ -75,9 +75,9 @@ I specialize in turning raw data 📊 into actionable insights and building smar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="scikit-learn logo" />
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="40" alt="streamlit logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg" height="40" alt="nlp/nltk logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="streamlit logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nltk/nltk-original.svg" height="40" alt="nltk logo" />
 </div>
 
 ###
