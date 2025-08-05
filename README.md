@@ -50,7 +50,7 @@ I specialize in turning raw data 📊 into actionable insights and building smar
 🔹 Data manipulation: Pandas, NumPy, PySpark 🔄<br>
 🔹 Machine Learning & NLP: Scikit-learn, Natural Language Processing 🗣️<br>
 🔹 Interactive apps: Streamlit for intuitive web applications 🌐<br>
-🔹 Data visualization: Plotly, Matplotlib, Seaborn, PyGWalker 📈<br>
+🔹 Data visualization: Plotly, Matplotlib, Seaborn, PyGWalker, Power BI 📈<br>
 🔹 Generative AI: Google Gemini API integration ⚡
 </p>
 
